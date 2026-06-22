@@ -1,6 +1,6 @@
 <div align="center">
     
-# 🐍 Ultimate Python Repository
+# 🐍 Ultimate Python Repository 📖
 
 > An interactive static website for learning and browsing structured Python and Tkinter programs — with syntax-highlighted code, rendered markdown guides, and a brutalist dark theme.
 
@@ -17,7 +17,7 @@
 
 ---
 
-## 📖 About
+## ✨ About
 
 This website serves as a **visual, interactive documentation platform** for the [Python-Programming-and-Tkinter](https://github.com/rhalbhavi/Python-Programming-and-Tkinter) repository. Instead of browsing raw files on GitHub, you get:
 
@@ -32,7 +32,7 @@ All content is pulled live from the repository's file tree — update the repo f
 
 ---
 
-## ✨ Features
+## 🎯 Features
 
 | Feature | Description |
 |---|---|
@@ -47,7 +47,7 @@ All content is pulled live from the repository's file tree — update the repo f
 
 ---
 
-## 🧱 Tech Stack
+## 🛠️ Tech Stack
 
 | Technology | Purpose | Badge |
 |---|---|---|
@@ -93,7 +93,7 @@ All content is pulled live from the repository's file tree — update the repo f
 ```
 
 Each topic folder contains either:
-- A single `.py` file (directly rendered with syntax highlighting)
+- Single `.py` files (directly rendered with syntax highlighting)
 - A `.md` file (rendered as HTML)
 - Multiple files in subdirectories (shown as expandable sidebar groups)
 - `.png` images (displayed inline, or embedded within markdown)
