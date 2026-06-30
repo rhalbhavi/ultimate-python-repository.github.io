@@ -110,9 +110,3 @@ Each topic folder contains either:
 ## 📄 License
 
 This project is open source under the [MIT License](LICENSE).
-
----
-
-<div align="center">
-    Made with 🐍 and ☕
-</div>
